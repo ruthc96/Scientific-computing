@@ -61,16 +61,8 @@ Scientific-computing/
 
 ### Group Contributors
 
-1. **Nihla Abdulhakim Aboud** – BSCCS/2025/30363
-2. **Ruth Jelagat** – BSCCS/2025/68700
-3. **Faraja Mukuba** – BSCCS/2025/67617
-4. **Masinde Brian** – BSCCS/2025/33461
-5. **Brian Mwema** – BSCCS/2025/68320
-6. **Paul Gathura** – BSCCS/2025/30381
-7. **Wisdom Washe** – BSCCS/2025/68601
-8. **Elizabeth Mwangi** – BSCCS/2025/67991
-9. **Dan Frankline** – BSCCS/2025/67612
-10. **Abiar Akim** – BSCCS/2025/68647
+1.**Ruth Jelagat** – BSCCS/2025/68700
+   
 
 ### How to Run the Programs
 
